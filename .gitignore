@@ -1,1 +1,5 @@
+model_df.csv
+*.pyc
+*.log
 *.ipynb_checkpoints
+.DS_Store
